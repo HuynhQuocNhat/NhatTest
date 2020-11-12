@@ -1,0 +1,13 @@
+{
+    "name": "nhat/ntest",
+    "description": "abc",
+    "type": "libbrary",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nhat\\Ntest\\":"src/"
+        }
+        
+    }
+}
